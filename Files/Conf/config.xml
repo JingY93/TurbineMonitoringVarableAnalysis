@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configSettings>
+  <add key="DataConnection" value="localhost">
+  </add>
+  <add key="Port" value="3306">
+  </add>
+  <add key="DataBaseName" value="tpri_wind_power">
+  </add>
+  <add key="UserName" value="root">
+  </add>
+  <add key="PassWord" value="root">
+  </add>
+  <add key="TrainDataTable" value="dap_tenmindata_7_202101">
+  </add>
+  <add key="AutoAnalysis" value="true">
+  </add>
+  <add key="AutoAnalysisTime" value="2">
+  </add>
+  <add key="LatestAutoAnalysisDate" value="">
+  </add>
+  <add key="StatusRange" value="2,4">
+  </add>
+  <add key="antibodyNumber" value="50">
+  </add>
+  <add key="cloneNumber" value="30">
+  </add>
+  <add key="maxGens" value="600">
+  </add>
+  <add key="mutationFactor" value="80">
+  </add>
+  <add key="removeThreshold" value="0.2">
+  </add>
+  <add key="clonalSelectionThreshold" value="0.01">
+  </add>
+  <add key="diversity" value="0.5">
+  </add>
+  <add key="lowerBoundary" value="0.0">
+  </add>
+  <add key="upperBoundary" value="1.0">
+  </add>
+  <add key="Default_Points_Line" value="50">
+  </add>
+  <add key="IQR_Factor" value="1.5">
+  </add>
+  <add key="SkinName" value="">
+  </add>
+  <add key="BackupDataTables" value="turbine_conf,turbine_train,">
+  </add>
+</configSettings>
